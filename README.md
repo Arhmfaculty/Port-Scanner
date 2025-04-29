@@ -32,13 +32,13 @@ No external libraries required. The scanner runs with Python 3.6+.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/port-scanner.git
-cd port-scanner
+git clone https://github.com/Arhmfaculty/Port-Scanner.git
+cd Port-Scanner
 ```
 
 ### 2. Run the Script
 ```bash
-python3 port_scanner.py
+python3 Port Scanner.py
 ```
 
 ---
@@ -105,7 +105,7 @@ Running scans on networks or domains without explicit permission is **illegal an
 
 ```
 port-scanner/
-├── port_scanner.py
+├── Port Scanner.py
 └── README.md
 ```
 

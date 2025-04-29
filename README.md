@@ -128,6 +128,6 @@ This project was developed as part of an **ethical hacking internship with Hack 
 
 ## 📜 License
 
-MIT License. Feel free to use, modify, or contribute with proper credit.
+Feel free to use, modify, or contribute with proper credit.
 
 ---
